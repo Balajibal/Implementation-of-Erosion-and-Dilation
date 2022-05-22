@@ -76,7 +76,8 @@ cv2.putText(img,'Gowri M',(5,70),font,2,(255),5,cv2.LINE_AA)
 <br>
 
 ### Display the Dilated Image
-![Screenshot (186)](https://user-images.githubusercontent.com/75234946/169677610-4d9922cf-0a05-44d5-a3f7-0bfc923afb44.png)
+![Screenshot (188)](https://user-images.githubusercontent.com/75234946/169677726-04570dc8-4990-4dc8-8fab-ed5627ceab69.png)
+
 
 <br>
 <br>
