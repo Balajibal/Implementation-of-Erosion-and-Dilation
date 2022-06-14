@@ -62,15 +62,18 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
-![Screenshot_666](https://user-images.githubusercontent.com/75235455/169960805-ea40f555-969b-4183-9752-c43b502a7de0.png)
+![Screenshot (218)](https://user-images.githubusercontent.com/75234946/173623364-be033332-5009-43ea-855d-2dfca4d9d099.png)
+
 
 
 ### Display the Eroded Image
-![Screenshot_664](https://user-images.githubusercontent.com/75235455/169960860-28e090d9-0b9e-48f9-b8cf-b533c1cd4a64.png)
+![Screenshot (222)](https://user-images.githubusercontent.com/75234946/173623650-6e70853c-20f5-4efd-a4b7-b689600dcc64.png)
+
 
 
 ### Display the Dilated Image
-![Screenshot_665](https://user-images.githubusercontent.com/75235455/169960884-6b972f2a-d1dc-4744-a5cc-c230e81d99f2.png)
+![Screenshot (223)](https://user-images.githubusercontent.com/75234946/173623865-27e9eea8-df17-45cd-adaf-93cc87af97b6.png)
+
 
 
 ## Result
