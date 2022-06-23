@@ -60,15 +60,18 @@ cv2.destroyAllWindows()
 
 ### Display the input Image
 
-![Screenshot 2022-05-25 202021](https://user-images.githubusercontent.com/75235789/170292309-4bd3ae7a-8bd6-418c-b966-4d9828d16be9.jpg)
+![Screenshot (218)](https://user-images.githubusercontent.com/75234946/175252198-173b8908-a5d1-4eea-9d13-ead349c43c55.png)
+
 
 
 ### <br><br>Display the Eroded Image
-![Screenshot 2022-05-25 202039](https://user-images.githubusercontent.com/75235789/170292354-4d359ef2-ef83-4945-9763-7a1b41c825b0.jpg)
+![Screenshot (222)](https://user-images.githubusercontent.com/75234946/175252302-641e0499-cc84-4e5f-baba-fceb5c2a4805.png)
+
 
 
 ### Display the Dilated Image
-![Screenshot 2022-05-25 202021](https://user-images.githubusercontent.com/75235789/170292370-55970f22-b007-4ce7-8691-faa506c46b52.jpg)
+![Screenshot (223)](https://user-images.githubusercontent.com/75234946/175252378-bab5924a-6143-4aaa-8a53-390cbc01140e.png)
+
 
 ## <br><br><br><br>Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
